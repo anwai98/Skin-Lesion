@@ -9,5 +9,5 @@ How to Run the Code?
 1. Train the Architectures with your Preferences and/or Requirements, or better Devise your Own using the Referred PyTorch Example.
 2. Play with the Hyperparameters and Different Architecture Configurations. It is my favourite part.
 3. Have Fun Transfering/Learning the Learnings. 
-4. 
+
 Note : Comments are provided for easier explanation. For more information, contact me!
