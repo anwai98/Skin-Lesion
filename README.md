@@ -14,4 +14,4 @@ How to Run the Code?
 > Note : Comments are provided for easier explanation. For more information, contact me!
 
 ## Challenge Results (MAIA - 3rd Semester)
-Our Methodology won the 1st Place in both the Binary with 90.8% Accuracy and Multi-Class 92% Accuracy (0.857 Kappa Score) in the Deep Learning Based Classification Challenges.
+Our Methodology won the 1st Place in both the Binary with 90.8% Accuracy and Multi-Class 92% Accuracy (0.857 Kappa Score) on the Test Dataset in the Deep Learning Based Classification Challenges.
